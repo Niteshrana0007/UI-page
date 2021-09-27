@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/UI-page/static/js/main.6e0c22a7.chunk.js",
+    "main.js.map": "/UI-page/static/js/main.6e0c22a7.chunk.js.map",
+    "runtime-main.js": "/UI-page/static/js/runtime-main.c34ba14f.js",
+    "runtime-main.js.map": "/UI-page/static/js/runtime-main.c34ba14f.js.map",
+    "static/js/2.79a9b23d.chunk.js": "/UI-page/static/js/2.79a9b23d.chunk.js",
+    "static/js/2.79a9b23d.chunk.js.map": "/UI-page/static/js/2.79a9b23d.chunk.js.map",
+    "static/js/3.2b380fbe.chunk.js": "/UI-page/static/js/3.2b380fbe.chunk.js",
+    "static/js/3.2b380fbe.chunk.js.map": "/UI-page/static/js/3.2b380fbe.chunk.js.map",
+    "index.html": "/UI-page/index.html",
+    "static/js/2.79a9b23d.chunk.js.LICENSE.txt": "/UI-page/static/js/2.79a9b23d.chunk.js.LICENSE.txt",
+    "static/media/SqrLearning.7e2ce1d8.svg": "/UI-page/static/media/SqrLearning.7e2ce1d8.svg",
+    "static/media/bg.7e061c73.jpg": "/UI-page/static/media/bg.7e061c73.jpg",
+    "static/media/pic.b350a76f.png": "/UI-page/static/media/pic.b350a76f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c34ba14f.js",
+    "static/js/2.79a9b23d.chunk.js",
+    "static/js/main.6e0c22a7.chunk.js"
+  ]
+}
